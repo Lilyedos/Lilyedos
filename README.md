@@ -4,7 +4,6 @@
 
 ### I am an Aspiring Data and Business Intelligience Analyst
 
-- 🔭 I’m currently working on several projects to challenge myself in growing in Data Analystics
 - 🌱 I’m currently learning Data Analytics and Business intelligence 
 - 👯 I’m looking to collaborate with companies, Organisations, Individuals to Solve business Problem
 - 🤔 I’m looking for help with intenship on Data Analyst so i can enhance my Data Analytics skills
